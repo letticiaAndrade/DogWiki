@@ -3,8 +3,8 @@ import { StyleSheet, Text, TextInput, View } from "react-native";
 
 const TopMenu = () =>{
     return (
-        <View style={{width:'100%', height:'100%'}}>
-            <View style={{backgroundColor:'#788D6D', width:'100%', height: '10%', justifyContent: 'center', alignItems:'center'}}>
+        <View style={{width:500, height:500}}>
+            <View style={{backgroundColor:'#788D6D', height: '10%', justifyContent: 'center', alignItems:'center'}}>
               <Text style={{color: '#333333', fontSize: 20}}>Aprendendo Sobre Cães</Text>
              </View>
         
@@ -15,7 +15,7 @@ const TopMenu = () =>{
                         fontSize: 16,
                         color: "#333333",
                     }} 
-                         placeholder={"Digite o nome da raça..."}
+                         placeholder={"Digite o nome da raça..."} 
                      />
                 </View>
                 
