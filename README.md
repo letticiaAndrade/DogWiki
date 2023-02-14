@@ -17,7 +17,7 @@
   <li>View</li>
   <li>Text</li>
   <li>StyleSheet</li>
-  <li>SectionList<li>
+  <li>FlatList<li>
 </ul>
 
 <hr>
