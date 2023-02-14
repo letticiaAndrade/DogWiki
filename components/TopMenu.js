@@ -9,11 +9,12 @@ const TopMenu = () =>{
              </View>
         
             <View style={{}} >
-                <View style={{backgroundColor: '#FFA07A',  width: '55%', height: '20%' ,elevation: 3, alignSelf: 'center',shadowColor: 'black', margin: 22}}>
+                <View style={{backgroundColor: '#FFA07A',  width: '55%', height: '20%' ,elevation: 3, alignSelf: 'center',shadowColor: 'black', margin: 22, borderRadius: 10}}>
                     <TextInput style={{
                         paddingLeft: 23,
                         fontSize: 16,
                         color: "#333333",
+                        paddingRight:23,
                     }} 
                          placeholder={"Digite o nome da raça..."} 
                      />
