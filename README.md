@@ -5,7 +5,7 @@
 <p>Entendendo :</p>
 <ul>
 <li> Treinar navegações de páginas</li>
-<li> Usando lista lógica (SectionList)</li>
+<li> Usando exibição de lista lógica (SectionList)</li>
 </ul>
 
 <p>Componentes nativos utilizados:</p>
