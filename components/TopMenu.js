@@ -9,7 +9,7 @@ const TopMenu = () =>{
              </View>
         
             <View style={{}} >
-                <View style={{backgroundColor: '#FFA07A',  width: '70%', height: '20%' ,elevation: 3, alignSelf: 'center',shadowColor: 'black', margin: 22}}>
+                <View style={{backgroundColor: '#FFA07A',  width: '55%', height: '20%' ,elevation: 3, alignSelf: 'center',shadowColor: 'black', margin: 22}}>
                     <TextInput style={{
                         paddingLeft: 23,
                         fontSize: 16,
