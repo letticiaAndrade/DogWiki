@@ -2,10 +2,12 @@
 
 <p>Aprendendo Sobre Cães é um aplicativo para aqueles que se interessam em conhecer mais as raças de cachorros e entender como deve cuidar do seu cãozinho. Mais um projeto para a prática com o React Native usando o Expo. Algumas funcionalidades não serão feitas em breve...</p>
 
-<p>Quais práticas são aplicadas:</p>
+<p>Entendendo :</p>
 <ul>
 <li> Treinar navegações de páginas</li>
+<li> Usando lista lógica (SectionList)</li>
 </ul>
+
 <p>Componentes nativos utilizados:</p>
 <ul>
   <li>PlaceHolder</li>
@@ -15,6 +17,7 @@
   <li>View</li>
   <li>Text</li>
   <li>StyleSheet</li>
+  <li>SectionList<li>
 </ul>
 
 <hr>
