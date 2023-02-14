@@ -10,8 +10,8 @@
 
 <p>Componentes nativos utilizados:</p>
 <ul>
-  <li>PlaceHolder</li>
-  <li>Uso do TextInput</li>
+ 
+  <li>Uso do TextInput </li>
   <li>Icon</li>
   <li>Image</li>
   <li>View</li>
