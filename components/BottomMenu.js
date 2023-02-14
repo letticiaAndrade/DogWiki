@@ -3,7 +3,8 @@ import { View, Text } from "react-native";
 
 const BottomMenu=()=> {
     return (
-        <View style={{backgroundColor:'#788D6D', width: '100%', height:'20%',marginTop:150}}>
+        <View style={{backgroundColor:'#788D6D', width: '100%', height:'20%', margin:200}}>
+            
             
         </View>
     )
