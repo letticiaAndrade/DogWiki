@@ -21,7 +21,7 @@ const Lista=()=>{
             </FontAwesome.Button>
         </View>
         <View style={{height:100}}>
-            <ScrollView showsVerticalScrollIndicator={false}  style={{ backgroundColor: '#FFA07A', width:400 }}>
+            <ScrollView showsVerticalScrollIndicator={false}  style={{ backgroundColor: '#FFA07A', width:424, elevation:5,shadowColor:'black' }}>
                 <ItensLista nome="VIRA-LATA" />
                 <ItensLista nome="SHIH TZU"/>
                 <ItensLista nome="YORKSHIRE"/>
