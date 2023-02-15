@@ -10,7 +10,7 @@ const TopMenu = () =>{
     return (
         <View style={{width:500, height:500}}>
             <View style={{backgroundColor:'#788D6D', height: '10%', justifyContent: 'center', alignItems:'center'}}>
-              <Text style={{color: '#333333', fontSize: 20}}>Aprendendo Sobre Cães</Text>
+              <Text style={{color: '#333333', fontSize: 20}}>DogWiki</Text>
              </View>
         
             <View style={{}} >
