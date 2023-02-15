@@ -1,13 +1,14 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
-import BottomMenu from "./components/BottomMenu";
-import Lista from './components/Lista';
-import TopMenu from './components/TopMenu';
-import Card from './components/Card';
+import BottomMenu from "./src/components/BottomMenu";
+import Lista from './src/components/Lista';
+import TopMenu from './src/components/TopMenu';
+import Card from './src/components/Card';
 
 export default function App() {
   return (
+   
     <View style={styles.container}>
       <TopMenu/>
       <View style={{margin: -60}}>
@@ -30,3 +31,4 @@ const styles = StyleSheet.create({
     //justifyContent: 'center',
   },
 });
+
