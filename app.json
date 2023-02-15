@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "aprendendo-sobre-caes",
-    "slug": "aprendendo-sobre-caes",
+    "name": "DogWiki",
+    "slug": "DogWiki",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
