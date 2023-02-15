@@ -5,7 +5,7 @@ const ItensLista=(props)=>{
     return (
         <View>
             <TouchableOpacity onPress={props.onPress} >
-                <Text style={{textAlign:'justify', alignSelf:'center', padding:4, fontSize:15}}>
+                <Text style={{textAlign:'justify', alignSelf:'center', padding:4, fontSize:15, color:"#333333"}}>
                     {props.nome}</Text>
              </TouchableOpacity>
         </View>
