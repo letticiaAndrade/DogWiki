@@ -1,6 +1,6 @@
-<h1>Aprendendo Sobre Cães App</h1>
+<h1>DogWiki</h1>
 
-<p>Aprendendo Sobre Cães é um aplicativo para aqueles que se interessam em conhecer mais as raças de cachorros e entender como deve cuidar do seu cãozinho. Mais um projeto para a prática com o React Native usando o Expo. Algumas funcionalidades não serão feitas em breve... :<</p>
+<p>DogWiki é um aplicativo para aqueles que se interessam em conhecer mais as raças de cachorros e entender como deve cuidar do seu cãozinho. Mais um projeto para a prática com o React Native usando o Expo. Algumas funcionalidades não serão feitas em breve... :<</p>
 
 <p>Entendendo :</p>
 <ul>
