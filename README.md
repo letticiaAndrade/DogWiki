@@ -5,7 +5,7 @@
 <p>Entendendo :</p>
 <ul>
 <li> Treinar navegações de páginas</li>
-<li> Usando exibição de lista (FlatList)</li>
+<li> Usando o scrollView</li>
 </ul>
 
 <p>Componentes nativos utilizados:</p>
@@ -17,7 +17,7 @@
   <li>View</li>
   <li>Text</li>
   <li>StyleSheet</li>
-  <li>FlatList<li>
+  <li>ScrollView<li>
 </ul>
 
 <hr>
