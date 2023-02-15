@@ -5,7 +5,7 @@
 <p>Entendendo :</p>
 <ul>
 <li> Treinar navegações de páginas</li>
-<li> Usando o scrollView</li>
+<li> Usando o ScrollView</li>
 </ul>
 
 <p>Componentes nativos utilizados:</p>
