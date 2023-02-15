@@ -12,7 +12,8 @@ export default function App() {
     <View style={styles.container}>
       <TopMenu/>
       <View style={{margin: -60}}>
-       <Lista />
+       <Lista/>
+       
       </View>
       
       <BottomMenu/>
