@@ -3,7 +3,7 @@ import { Text, ScrollView, View } from "react-native";
 import FontAwesome from '@expo/vector-icons/FontAwesome';
 
 const Lista=()=>{
-    const aleatoriazar= ()=>{
+    const aleatorizar= ()=>{
         console.log("botão com icone de aleatorio pressionado");
     };
     return (
@@ -14,7 +14,7 @@ const Lista=()=>{
 
             <Text style={{paddingLeft: 170,  paddingTop: 4,color: '#333333'}}>Aleatório</Text>
             <FontAwesome.Button name="refresh" size={14} color="#5E3A24"
-             backgroundColor={"white"} onPress={aleatoriazar}>
+             backgroundColor={"white"} onPress={aleatorizar}>
             </FontAwesome.Button>
         </View>
       )
