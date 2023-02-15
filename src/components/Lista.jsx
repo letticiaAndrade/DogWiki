@@ -5,7 +5,7 @@ import ItensLista from "./Itens";
 
 const Lista=()=>{
     const aleatorizar= ()=>{
-        //função que irá imprimir uma raça aleatória (mudança de screen)
+        //função que irá imprimir uma raça aleatória (mudança de screen de Home para Details)
         console.log("botão com icone de aleatorio pressionado");
     };
     return (
