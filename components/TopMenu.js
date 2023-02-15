@@ -1,7 +1,12 @@
 import React from "react";
 import { StyleSheet, Text, TextInput, View } from "react-native";
+import FontAwesome from "@expo/vector-icons/FontAwesome";
 
 const TopMenu = () =>{
+    const pesquisar=()=> {
+        console.log("Pressionou botão de pesquisar");
+    };
+
     return (
         <View style={{width:500, height:500}}>
             <View style={{backgroundColor:'#788D6D', height: '10%', justifyContent: 'center', alignItems:'center'}}>
@@ -9,7 +14,7 @@ const TopMenu = () =>{
              </View>
         
             <View style={{}} >
-                <View style={{backgroundColor: '#FFA07A',  width: '55%', height: '20%' ,elevation: 3, alignSelf: 'center',shadowColor: 'black', margin: 22, borderRadius: 10}}>
+                <View style={{backgroundColor: '#FFA07A',  width: '40%', height: '20%' ,elevation: 3, alignSelf: 'center',shadowColor: 'black', margin: 22, borderRadius: 10, flexDirection:'row'}}>
                     <TextInput style={{
                         paddingLeft: 23,
                         fontSize: 16,
@@ -18,6 +23,7 @@ const TopMenu = () =>{
                     }} 
                          placeholder={"Digite o nome da raça..."} 
                      />
+                     <FontAwesome.Button name="search" size={14} color={"#5E3A24"} backgroundColor={"white"} onPress={pesquisar} ></FontAwesome.Button>
                 </View>
                 
             </View>

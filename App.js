@@ -4,6 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import BottomMenu from "./components/BottomMenu";
 import Lista from './components/Lista';
 import TopMenu from './components/TopMenu';
+import Card from './components/Card';
 
 export default function App() {
   return (
