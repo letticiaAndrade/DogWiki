@@ -2,7 +2,7 @@ import React from "react";
 import { Text, ScrollView, View } from "react-native";
 import FontAwesome from '@expo/vector-icons/FontAwesome';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
-import {ItensLista} from "./Itens";
+import {ItensLista} from "./ItensLista";
 
 export const Lista=()=>{
     const aleatorizar= ()=>{
