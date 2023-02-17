@@ -2,7 +2,7 @@ import React from "react";
 import { StyleSheet, Text, TextInput, View } from "react-native";
 import FontAwesome from "@expo/vector-icons/FontAwesome";
 
-const TopMenu = () =>{
+export const TopMenu = () =>{
     const pesquisar=()=> {
         console.log("Pressionou botão de pesquisar");
     };
@@ -31,4 +31,3 @@ const TopMenu = () =>{
     )
 };
 
- export default TopMenu;

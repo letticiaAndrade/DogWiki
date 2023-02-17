@@ -1,10 +1,11 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
-import BottomMenu from "./src/components/BottomMenu";
-import Lista from './src/components/Lista';
-import TopMenu from './src/components/TopMenu';
-import Card from './src/components/Card';
+
+import {BottomMenu} from './src/components/BottomMenu';
+import {Lista} from './src/components/Lista';
+import {TopMenu} from './src/components/TopMenu';
+import {Card } from './src/components/Card';
 
 export default function App() {
   return (

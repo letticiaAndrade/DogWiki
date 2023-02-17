@@ -1,7 +1,7 @@
 import React from "react";
 import { Text, View, Image, StyleSheet } from "react-native";
 
-const Card=(props)=> {
+export const Card=(props)=> {
     return (
         <View >
             <Image
@@ -26,5 +26,3 @@ const style = StyleSheet.create({
         
     }
 })
-
-export default Card;
