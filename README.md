@@ -17,7 +17,7 @@
   <li>View</li>
   <li>Text</li>
   <li>StyleSheet</li>
-  <li>ScrollView<li>
+  <li>ScrollView</li>
 </ul>
 
 <hr>
